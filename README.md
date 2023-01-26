@@ -6,7 +6,8 @@ The purpose of the project is to analyze metrics affecting the manufacturing a n
 
 ### Linear Regression to Predict MPG
 
-![image_name](Images/Linear regression.png)
+![image_name](Images/Linear regression)
+
 
 
 ## 3 Key Takeaways:
@@ -17,15 +18,15 @@ The purpose of the project is to analyze metrics affecting the manufacturing a n
 ### Summary Statistics on Suspension Coils
 The overall variance for the entire dataset indicates that the current manufacturing data meets the 100 pounds per square inch variance limitation. However, when separated into three lots, the third lot demonstrates a much higher variance. Because the lots are chosen randomly, there is a possiblity that a third of the lot does not meet the necessary suspension coils requirement.
 
-![image_name](Images/Lot Summary.png)
-![image_name](Images/Summary Stats.png)
+![image_name](Images/Lot Summary)
+![image_name](Images/Summary Stats)
 
 
 ### T-Test on Suspension Coils
 ## T-test on entire lot:
 At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 0.06. Therefore, we cannot reject the fact that the sample mean may be equivalent to the true population mean. Another feature to note is the narrow confidence interval. Although a narrower confidence interval implies that there is a smaller chance of obtaining an observation within that interval, it provides greater accuracy than a wider interval.
 
-![image_name](Images/one sample t-test.png)
+![image_name](Images/one sample t-test)
 
 ## T-Test on Three Smaller Lots
 # Lot 1
